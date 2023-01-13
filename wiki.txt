@@ -1,0 +1,26 @@
+Analyseren
+
+Tijdens de les op maandag 12 September hebben we uitleg gekregen over de your-tribe-squad-page. De opdracht was vrij duidelijk: Met een team een overzichtspagina maken van alle studenten en daar linkjes aan hangen naar alle visitekaartjes.
+
+We hebben individuele goals en team goals neergezet om aan te werken. wij hebben allemaal onze persoonlijke doelen op het teamcanvas ingevuld en de verwachtingen aangegeven die we van het team verwachten. Ik vind het belangrijk als mensen goed gezamenlijk aan het werkgaan met goed overleg en duidelijk heit in het team wat van wie verwacht word.
+
+De opdracht en het doel snel waren snel duidelijk. Het analyseren is grotendeels in teamverband gebeurd en daarom weet ik niet zo goed wat ik nog meer kan opschrijven.
+
+Ontwerpen
+
+In de ontwerpfase hebben we een aantal schetsen gemaakt. Er is gekeken naar de visuele hiërarchie, lay-out, "fun-factor" en de haalbaarheid van het ontwerp. de volgende schetsen heb ik zelf gemaakt:
+
+Bouwen
+
+Ik heb de taak gekregen om een basis lay-out te maken van de squadpage. Aan het begin heb ik alle begin html en CSS styling neergezet zodat we vandaar uit verder kunnen werken. Daarna heb ik samen met rosa de foto's zitten bewerken met de juiste formaat en kleurprofiel dat ze mooi en goed geschikt zijn voor web. Daarna heeft Ralph er meer styling en design in gegooid. Na dat dit gebeurt was kwam ik er achter dat bij mij iets niet het zelfde er uitzag. tussen een div en een image die in de div stond zat een wit randje van 1 px. Ik wist niet waarom ik dit had en heb daarna veel tijd verbruikt om deze te verhelpen. wat het probleem was is dat mijn laptop op 125% schaal staat(dit is aanbevolen). Hierdoor is 1px niet 1 maar 1.25, in onze design gebruikte we 3px zo voor mij was dit 3.75px. Hierdoor is de image naar boven afgerond en de border naar beneden waardoor er ruimte tussen die twee zat. Later is de design aangepast door Duneya en was het niet meer van belang.
+
+Duneya heeft veel nieuwe code toegevoegd om de puzzle als een puzzle te maken. Ik heb hierin gekeken en geprobeerd aanpsignen in te maken maar het lukte niet. Het was een te gevorderde code voor mijn.
+
+Integreren
+
+Het bleek erg lastig om de puzzelstukjes te vormen met CSS. We hebben niet alle problemen kunnen oplossen maar we zijn tevreden met het resultaat. alle foto's en links werken. De Wiki en de Readme zijn up to date en de code staat live. De URL werkt.
+
+Testen
+
+Tijdens het testen merkte we dat het niet goed werkte op mobile. Ik heb naar de code gekeken maar ik begreep er niet veel van. Het was geschreven door Duneya en elke kleine ding dat ik aanpaste sloopte het meer dan dat het helpt. Hierdoor heb ik gekozen het bij haar neer Telegen om te kijken of zij het werkend krijgt voor mobile. Verder werkte de links, foto's en design prima.
+
